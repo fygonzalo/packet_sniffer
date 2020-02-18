@@ -19,6 +19,8 @@ Each json structure represents a packet.
 
 ```
 
+where is the output?
+
 For more information about file format visit http://ndjson.org.
 
 ## Compilation
